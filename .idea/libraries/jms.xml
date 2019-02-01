@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jms_jars/jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jms_jars/wlfullclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jms_jars/wljmsclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/jms_jars/wlfullclient.jar!/" />
+    </SOURCES>
+  </library>
+</component>
